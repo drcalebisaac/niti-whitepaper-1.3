@@ -80,7 +80,7 @@ Niti's synthetic assets can be pegged to climate variations, harvest volume, pol
 
 #### 2.3.3 Standardization
 
-Algorithmic stablecoins present high complexity to users as they follow their individual protocols, which can be flawed, as was the case with TerraUSD. The user then needs to specifically study that process in depth to undestand these risks and economically analize the viability of the parity of the offered tokens. This is unfeasible to the average user, who in practice takes a high risk when participating in a system that he doesn't know and is unique to that protocol.
+Algorithmic stablecoins present high complexity to users as they follow their individual protocols, which can be flawed, as was the case with Terra(LUNA). The user then needs to specifically study that process in depth to undestand these risks and economically analize the viability of the parity of the offered tokens. This is unfeasible to the average user, who in practice takes a high risk when participating in a system that he doesn't know and is unique to that protocol.
 
 In the solution proposed by Hayek, distinct private currencies would compete freely on the private market. He argues that our view of using a single currency based on the custom of the state monopoly, and we should use various synthetic assets (stablecoins with no direct backing), based on various asset baskets to the distinc uses of money. Niti has the objective of bringing this system to life, with over 50 years after its conception. So, Niti is not a bank offering stablecoins, but it is actually a protocol where market agents can use it to create their own stablecoins, that necessarily need to adhere to the protocol model
 
